@@ -175,6 +175,7 @@
   ./services/misc/nixos-manual.nix
   ./services/misc/nix-ssh-serve.nix
   ./services/misc/phd.nix
+  ./services/misc/redmine.nix
   ./services/misc/rippled.nix
   ./services/misc/rogue.nix
   ./services/misc/siproxd.nix
@@ -215,6 +216,7 @@
   ./services/networking/cjdns.nix
   ./services/networking/cntlm.nix
   ./services/networking/connman.nix
+  ./services/networking/consul.nix
   ./services/networking/ddclient.nix
   ./services/networking/dhcpcd.nix
   ./services/networking/dhcpd.nix
@@ -233,6 +235,7 @@
   ./services/networking/iodined.nix
   ./services/networking/ircd-hybrid/default.nix
   ./services/networking/kippo.nix
+  ./services/networking/mailpile.nix
   ./services/networking/minidlna.nix
   ./services/networking/murmur.nix
   ./services/networking/nat.nix
@@ -249,6 +252,7 @@
   ./services/networking/polipo.nix
   ./services/networking/prayer.nix
   ./services/networking/privoxy.nix
+  ./services/networking/prosody.nix
   ./services/networking/quassel.nix
   ./services/networking/radicale.nix
   ./services/networking/radvd.nix
